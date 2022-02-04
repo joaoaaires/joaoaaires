@@ -1,9 +1,40 @@
-<h3>
-Hi!
-</h3>
+### Hi! I'm Joao! :D
 
-<p align="left">
 Desenvolvedor Full-Stack • Mobile
-</p>
 
+#### 💻 Competências profissionais
 
+*Linguagens:*
+
+- Java
+- Dart
+- JavaScript
+- PHP
+
+*Back-End:*
+
+- Java: Vraptor, Play Framework Spring Boot 
+- JavaScript: NodeJS, Express, Socket.io
+
+*Front-End:*
+
+- Dart: Flutter
+- JavaScript: JQuery, AngularJS, VueJS
+
+*Mobile com experiências:*
+
+- Java: Android, TotalCross
+- JavaScript: NativeScript
+- Dart: Flutter
+
+*Outros:*
+
+- Git
+- Linux em geral
+- Docker
+- Nginx
+- Jenkins
+
+#### 📫 Perfil
+
+- Linkedin: https://bityli.com/TQJHs
