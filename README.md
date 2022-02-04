@@ -37,4 +37,4 @@ Desenvolvedor Full-Stack • Mobile
 
 #### 📫 Perfil
 
-- Linkedin: https://bityli.com/TQJHs
+- Linkedin: https://linkedin.com/in/joaoaaires
