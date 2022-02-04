@@ -2,6 +2,8 @@
 
 Desenvolvedor Full-Stack • Mobile
 
+Desenvolvedor desde 2014.
+
 #### 💻 Competências profissionais
 
 *Linguagens:*
