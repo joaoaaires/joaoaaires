@@ -1,8 +1,6 @@
 ### Hi! I'm Joao! :D
 
-Desenvolvedor Full-Stack • Mobile
-
-Desenvolvedor desde 2014.
+Desenvolvedor Full-Stack e Mobile desde 2014.
 
 #### 💻 Competências profissionais
 
