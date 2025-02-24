@@ -10,11 +10,13 @@ Desenvolvedor Full-Stack e Mobile desde 2014.
 - Dart
 - JavaScript
 - PHP
+- Go
+- Python
 
 *Back-End:*
 
-- Java: Vraptor, Play Framework Spring Boot 
-- JavaScript: NodeJS, Express, Socket.io
+- Java: Vraptor, Play Framework e Spring Boot 
+- JavaScript: NodeJS, NestJS, Express e Socket.io
 
 *Front-End:*
 
@@ -24,7 +26,7 @@ Desenvolvedor Full-Stack e Mobile desde 2014.
 *Mobile com experiências:*
 
 - Java: Android, TotalCross
-- JavaScript: NativeScript
+- JavaScript: NativeScript React Native
 - Dart: Flutter
 
 *Outros:*
